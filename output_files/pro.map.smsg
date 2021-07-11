@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at pro.v(128): always construct contains both blocking and non-blocking assignments File: D:/Programming and Projects/VLSI/pro/pro.v Line: 128
+Info (10281): Verilog HDL Declaration information at pro.v(117): object "hex2" differs only in case from object "HEX2" in the same scope File: D:/Programming and Projects/VLSI/pro/pro.v Line: 117
